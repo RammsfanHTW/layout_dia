@@ -1,5 +1,5 @@
 # AIR Landing
-[DEMO LINK](https://aleksey-10.github.io/layout_dia/)
+[DEMO LINK](https://RammsfanHTW.github.io/layout_dia/)
 
 ## Tech stack
 - HTML/CSS(SCSS)/JS
